@@ -1,4 +1,4 @@
-# Diego
+# Diego Costa
 
 ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
 
