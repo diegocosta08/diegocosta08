@@ -5,9 +5,8 @@
 
  <div>
   <a href="[https://github.com/diegocosta08)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocosta08&show_icons=true&theme=dracula&include_all_commits=true&count_public"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego&layout=compact&langs_count=7&theme=dracula"/>
 
+ 
 </div>
   
  <div style="display: inline_block"><
