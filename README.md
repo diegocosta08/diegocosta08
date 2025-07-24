@@ -24,10 +24,14 @@ Tenho focado meus estudos em <strong>Kotlin</strong> para desenvolvimento Androi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocosta08&layout=compact&langs_count=6&theme=dracula"/>
 </a>
 
-## 💻 Tecnologias e Linguagens
+## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,html,css)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de Desenvolvimento
+### 🚀 Frameworks e bibliotecas
+
+[![My Skills](https://skillicons.dev/icons?i=flask,django)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio)](https://skillicons.dev)
