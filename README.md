@@ -1,24 +1,33 @@
-# Diego Costa
+# 👨🏻‍💻 Olá, eu sou o Diego!
+<p align="left">
+Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.
+Tenho focado meus estudos em <strong>Kotlin</strong> para desenvolvimento Android e <strong>Python</strong> para o back-end.
+</p>
 
-![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
+## Sobre mim
 
+- 🖥️ Técnologo em Gestão em Tecnologia da Informação
+- 🎯 Estudando Desenvolvimento Android com Kotlin e Back-End com Python.
+- 🚀 Em busca de transformar aprendizado em soluções reais.
 
- <div>
-  <a href="[https://github.com/diegocosta08)">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
 
- 
-</div>
-  
- <div style="display: inline_block"><
-  <img align="center" alt="Logo Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
-  <img align="center" alt="Logo Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  
-</div>
+###
+---
+## ⭐ GitHub Stats
+<a href="https://github.com/diegocosta08">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocosta08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocosta08&layout=compact&langs_count=6&theme=dracula"/>
+</a>
 
-## 
+## 💻 Tecnologias e Linguagens
 
-<div> 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,html,css)](https://skillicons.dev)
 
-<a href="https://linkedin.com/in/diego-costa08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### 🛠️ Ferramentas de Desenvolvimento
 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio)](https://skillicons.dev)
