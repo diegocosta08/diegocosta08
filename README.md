@@ -7,7 +7,7 @@ Tenho focado meus estudos em <strong>Kotlin</strong> para desenvolvimento Androi
 ## Sobre mim
 
 - 🖥️ Técnologo em Gestão em Tecnologia da Informação
-- 🎯 Estudando Desenvolvimento Android com Kotlin e Back-End com Python.
+- 🎯 Estudando Desenvolvimento Android com Kotlin e back-end com Python.
 - 🚀 Em busca de transformar aprendizado em soluções reais.
 
 <picture>
@@ -35,3 +35,26 @@ Tenho focado meus estudos em <strong>Kotlin</strong> para desenvolvimento Androi
 ### 🛠️ Ferramentas de desenvolvimento
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+Tenho me aprofundado em <strong>Kotlin</strong>, com foco no desenvolvimento Android usando <strong>Jetpack Compose</strong>.  
+Para back-end, estudo <strong>Python</strong> com os frameworks <strong>Flask</strong> e <strong>Django</strong>.  
+Também aplico esses conhecimentos em projetos práticos que fazem parte do meu portfólio.<br><br>
+Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+<p align="left">
+
+</p>
+
+<p align="left">
+  Vamos nos conectar? Sinta-se à vontade para me enviar um e-mail ou me seguir no LinkedIn.
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda.vieira.goncalves7@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
